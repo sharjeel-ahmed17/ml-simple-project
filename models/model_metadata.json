@@ -1,0 +1,9 @@
+{
+  "best_model": "Gradient Boosting",
+  "accuracy": 0.9963636363636363,
+  "auc_roc": 0.9969417355371901,
+  "feature_count": 33,
+  "train_samples": 8800,
+  "test_samples": 2200,
+  "threshold": 150.2408536585366
+}
